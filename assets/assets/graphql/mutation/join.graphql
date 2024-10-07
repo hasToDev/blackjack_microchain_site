@@ -1,0 +1,9 @@
+mutation Join(
+    $playerId: String!,
+    $playerName: String!,
+) {
+    join (
+        playerId: $playerId,
+        playerName: $playerName,
+    )
+}
