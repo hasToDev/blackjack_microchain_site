@@ -8056,7 +8056,7 @@ ya:function ya(){},
 a6i(){var s=0,r=A.G(t.H),q,p,o,n,m,l,k
 var $async$a6i=A.C(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:s=2
-return A.L(A.aIw("6cfa04aa1435ca45a743823291371b7d49c2689306ce6cfcd05c8a9f215b42cb90f3300f056566982174fcb562214da18b420cac5d6143fdbc43acea117b6f211db1936dad0717597a7743a8353c9c0191c14c3a129b258e9743aec2b4f05d03010000000000000000000000",B.IN,"1db1936dad0717597a7743a8353c9c0191c14c3a129b258e9743aec2b4f05d03","http://192.168.1.50:8081"),$async$a6i)
+return A.L(A.aIw("987c5bbc758b52962528e929d09a6ea4f038fa594a2fc84a1956402e8530a13740f1214def7c3d187a436c4a8c7543a3dfe2fc8d1e000b01f001b5ac1a7d799f1db1936dad0717597a7743a8353c9c0191c14c3a129b258e9743aec2b4f05d03010000000000000000000000",B.IN,"1db1936dad0717597a7743a8353c9c0191c14c3a129b258e9743aec2b4f05d03","https://linera.hasto.dev"),$async$a6i)
 case 2:s=3
 return A.L($.dJ().auY(t.cZ),$async$a6i)
 case 3:if($.Z==null)A.aRx()
@@ -49623,7 +49623,7 @@ $0(){A.hE(this.a).ht(0,"/username",null)},
 $S:0}
 A.ayC.prototype={
 $1(a){var s=null,r=A.a4(a).p2.x
-return new A.bO(B.J_,A.co("v0.1.4",1,s,s,s,r==null?s:r.BS(B.eF,B.a2,1),B.aG,s),s)},
+return new A.bO(B.J_,A.co("v0.1.5",1,s,s,s,r==null?s:r.BS(B.eF,B.a2,1),B.aG,s),s)},
 $S:144}
 A.E1.prototype={
 ae(){return new A.a_o(A.a([],t.xz))}}
