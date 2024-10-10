@@ -48740,7 +48740,7 @@ e=t.l
 d=f.$1$0(e).a
 c=d+"/ws"
 if(B.c.u(d,"http://"))c=A.dl(c,"http://","ws://")
-if(B.c.u(d,"https://"))c=A.dl(c,"https://","ws://")
+if(B.c.u(d,"https://"))c=A.dl(c,"https://","wss://")
 p.k1=new A.atB(c,B.TP)
 f.$1$0(e)
 d=p.k1
@@ -49742,7 +49742,7 @@ $0(){A.fN(this.a).fH(0,"/username",null)},
 $S:0}
 A.ayK.prototype={
 $1(a){var s=null,r=A.a3(a).p2.x
-return new A.bK(B.J1,A.cj("v0.1.8",s,1,s,s,s,r==null?s:r.BS(B.eF,B.Z,1),B.aH,s),s)},
+return new A.bK(B.J1,A.cj("v0.1.9",s,1,s,s,s,r==null?s:r.BS(B.eF,B.Z,1),B.aH,s),s)},
 $S:146}
 A.E1.prototype={
 ae(){return new A.a_p(A.a([],t.xz))}}
