@@ -1,9 +1,11 @@
 mutation Join(
     $playerId: String!,
     $playerName: String!,
+    $version: String!,
 ) {
     join (
         playerId: $playerId,
         playerName: $playerName,
+        version: $version,
     )
 }
