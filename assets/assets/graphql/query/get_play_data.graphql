@@ -4,6 +4,8 @@ query GetPlayData(
     getPlayData (
         playerId: $playerId,
     ) {
+        pOneId
+        pTwoId
         myCard
         opponentCard
         myScore

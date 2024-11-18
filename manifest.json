@@ -1,11 +1,11 @@
 {
-  "name": "BlackJack on Microchain",
-  "short_name": "BlackJack on Microchain",
+  "name": "BlackJack on Microchains",
+  "short_name": "BlackJack on Microchains",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FF2A00",
   "theme_color": "#FF2A00",
-  "description": "BlackJack Microchain dApp",
+  "description": "Discover the future of Blackjack with our innovative on-chain gaming platform, built on the secure, fast, and efficient Linera's microchains.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
