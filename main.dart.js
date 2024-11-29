@@ -8550,7 +8550,7 @@ zl:function zl(a){this.a=a},
 NY(){var s=0,r=A.q(t.H),q,p,o,n,m,l,k
 var $async$NY=A.m(function(a,b){if(a===1)return A.n(b,r)
 while(true)switch(s){case 0:s=2
-return A.f(A.aNt("499ec60ca006ef1c0123366349bff9ef39f5f6b3f3b95cf8984adb1859cb3064","cf416cb54562678e1eed7df55eec1b00c2d7673af10e77acccc00ecaa6a6851406a6344edaa2a17b732912bcfc0fa92f95743a6309031e80847666f5131ebe2f6de74c4bade859c58f3d9bda5d295442337498bce64b099ac0a77d8d7c23b5fb030000000000000000000000","https://blackjack-config.hasto.dev/config.json",B.ov,"6de74c4bade859c58f3d9bda5d295442337498bce64b099ac0a77d8d7c23b5fb","https://linera.hasto.dev","83e1410f8304bbb722051b748337cecc021bd5a214176782c2a655e9242b8a17"),$async$NY)
+return A.f(A.aNt("9354496a5fc5fbe09046eff65a98650af9288e057379e1e64fcd0e11a346bbc7","cf416cb54562678e1eed7df55eec1b00c2d7673af10e77acccc00ecaa6a6851406a6344edaa2a17b732912bcfc0fa92f95743a6309031e80847666f5131ebe2f1db1936dad0717597a7743a8353c9c0191c14c3a129b258e9743aec2b4f05d03030000000000000000000000","https://blackjack-config.hasto.dev/config.json",B.ov,"1db1936dad0717597a7743a8353c9c0191c14c3a129b258e9743aec2b4f05d03","https://linera.hasto.dev","3927bef15ffeddc89d0f5460af6821fd17aaada00cf0217a14b1392e3a5c5ca1"),$async$NY)
 case 2:q=$.Q()
 s=3
 return A.f(q.a1Y(t.cZ),$async$NY)
@@ -57193,7 +57193,7 @@ k=t.l
 n=B.d.ao(A.aU(n,B.S,k).w.a.a)
 j=p.c
 j.toString
-i=A.a_(["playerId",m,"playerName",a,"version",l+".0.1.44_"+n+"."+B.d.ao(A.aU(j,B.S,k).w.a.b)],t.N,t.z)
+i=A.a_(["playerId",m,"playerName",a,"version",l+".0.1.45_"+n+"."+B.d.ao(A.aU(j,B.S,k).w.a.b)],t.N,t.z)
 o=o.$1$0(t.w)
 k=p.r
 k.toString
@@ -57635,7 +57635,7 @@ return A.p($async$$0,r)},
 $S:8}
 A.aCd.prototype={
 $2(a,b){var s=null,r=b.d
-return new A.bX(new A.aw(0,0,0,A.bhQ(r)),A.bA(this.a.r+"0.1.44."+B.d.ao(b.b)+"."+B.d.ao(r),s,1,s,s,s,A.bhR(a,r),B.av,s),s)},
+return new A.bX(new A.aw(0,0,0,A.bhQ(r)),A.bA(this.a.r+"0.1.45."+B.d.ao(b.b)+"."+B.d.ao(r),s,1,s,s,s,A.bhR(a,r),B.av,s),s)},
 $S:402}
 A.F4.prototype={
 aj(){return new A.a0P(A.a([],t.xz))}}
@@ -58104,7 +58104,7 @@ i=J.aJ(a5.i(m,"version"),"buildNumber")
 if(i==null)i=0
 a5=a5.i(m,"inMaintenance")
 if(a5==null)a5=!1
-s=new A.aa5(l,k,j,i).azp("0.1.44")?4:5
+s=new A.aa5(l,k,j,i).azp("0.1.45")?4:5
 break
 case 4:s=6
 return A.f(A.ao(B.aJ,null,t.z),$async$iy)
@@ -58152,7 +58152,7 @@ b=b==null?null:J.pz(b,t.N)
 a5=b==null?null:b.fD(b)
 t.H_.a(a5)
 a=a5==null?A.a([],t.s):a5
-s=a.length===0||h.length===0||h!=="0.1.44"?12:14
+s=a.length===0||h.length===0||h!=="0.1.45"?12:14
 break
 case 12:s=15
 return A.f(p.mG(),$async$iy)
@@ -58295,7 +58295,7 @@ s=5
 return A.f(g.Ap(e==null?A.a([],t.s):e),$async$mG)
 case 5:g=t.cZ
 s=6
-return A.f(o.$1$0(g).mn("String","lineraBlackJackAppVersion","0.1.44"),$async$mG)
+return A.f(o.$1$0(g).mn("String","lineraBlackJackAppVersion","0.1.45"),$async$mG)
 case 6:g=o.$1$0(g)
 o=f?null:n.a
 s=7
