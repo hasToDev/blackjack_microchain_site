@@ -36,7 +36,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e6ba90ce582433034e627683b4981189
 "favicon.ico": "132f54fd80061359f9170721964d4071",
 "favicon.png": "e5a0f7d71cdfd940705ba533ea03de11",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "7f9238e1382e7812c3c6dbbbc5303edb",
+"flutter_bootstrap.js": "c4c19370b58950904d8a3c781431818c",
 "fonts/Orbitron-Bold.ttf": "446368d913de79c000895e4b91dfb1af",
 "icons/Icon-192.png": "9d3f5bce811180345ddbc89b46a75d89",
 "icons/Icon-512.png": "4e55809289afc7fcac1fcc79a50023c0",
@@ -44,11 +44,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "e6ba90ce582433034e627683b4981189
 "icons/Icon-maskable-512.png": "4e55809289afc7fcac1fcc79a50023c0",
 "index.html": "aabf3e90112a1d654bd8ac94505b7ac1",
 "/": "aabf3e90112a1d654bd8ac94505b7ac1",
-"main.dart.js": "ca831a7293a59277821e475c243552d0",
+"main.dart.js": "552a90e11cc05a288dad1a22b6aee067",
 "main.dart.mjs": "a8b301b6197cfb65862fe76bef796652",
-"main.dart.wasm": "7c3962bc55c9771edcc533fdd20dc94e",
+"main.dart.wasm": "849a5dace5aa65bce5d0d0e280edc331",
 "manifest.json": "ff21955e07638e1632aa164a0ec03037",
-"version.json": "d978ea4a46c6393a9da5a48ae75ed6e1"};
+"version.json": "a16f3cc735d54cddc64a53514028d46f"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
